@@ -8,6 +8,6 @@ The code corresponds to the model in the figure below. Training the network via 
 The figure below shows the error reduction curve and simulation results obtained from the training set.<br>
 <img width="333" height="333" alt="image" src="https://github.com/user-attachments/assets/091389b8-a2f8-4928-bba5-35cff6510e28" /> 
 <img width="333" height="333" alt="image" src="https://github.com/user-attachments/assets/57f5760f-7bc3-46bd-8939-ff0e8e52c75a" /> <br>
-Since the original code has not been made public, the code for this project is written by myself. For a detailed explanation of the relevant principles, please refer to the file: Diffractive optical computing.pdf. <br>
+Since the original code has not been made public, the code for this project is written by myself. For a detailed explanation of the relevant principles, please refer to the file: Diffractive optical computing.pdf. <br>  
 
 Currently, the simulation multiplexing of 100 pairs of images can be achieved in the training set. Through test comparison, using the gradient descent algorithm, its performance is far superior to the wavefront matching algorithm and the phase retrieval iterative algorithm. However, in the test set, the transfer generalization effect is very poor.It is currently unclear whether the original author has any undisclosed details.
