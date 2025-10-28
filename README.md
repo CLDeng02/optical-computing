@@ -4,7 +4,7 @@ As a complex-valued neural network, the optical diffractive neural network funct
 The code corresponds to the model in the figure below. Training the network via the backpropagation algorithm enables the establishment of an end-to-end optical computing model that maps inputs to outputs.This figure is from the paper [Diffraction casting](https://www.spiedigitallibrary.org/journals/advanced-photonics/volume-6/issue-5/056005/Diffraction-casting/10.1117/1.AP.6.5.056005.full?tab=ArticleLinkCited) <br>
 
 <img width="333" height="333" alt="image" src="https://github.com/user-attachments/assets/113cdc28-950e-480a-b2f0-b7d811bcad3e" />
-<img width="333" height="333" alt="image" src="https://github.com/user-attachments/assets/df28f319-c052-4ae3-a86f-2b605b5649a5" /> | <br>
+<img width="333" height="333" alt="image" src="https://github.com/user-attachments/assets/df28f319-c052-4ae3-a86f-2b605b5649a5" />  <br>
 The figure below shows the error reduction curve and simulation results obtained from the training set.<br>
 <img width="333" height="333" alt="image" src="https://github.com/user-attachments/assets/091389b8-a2f8-4928-bba5-35cff6510e28" /> 
 <img width="333" height="333" alt="image" src="https://github.com/user-attachments/assets/57f5760f-7bc3-46bd-8939-ff0e8e52c75a" /> <br>
